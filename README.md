@@ -27,10 +27,6 @@ Modern web platform for managing youth camps and summer programs built with Next
 #### Advanced FiveM Crime Tablet · [Preview](https://www.youtube.com/watch?v=dJ7XQ9BSFKQ)
 Interactive crime management system for FiveM roleplay servers with real-time data synchronization. Built with React, TypeScript, and Lua, featuring organization structure, missions system, and financial management.
 
-### GitHub Public Repo Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=salam4n&show_icons=true&theme=aura&hide_border=true&bg_color=000000&icon_color=AD61FF&title_color=AD61FF" alt="GitHub Stats" />
-
 ### Connect
 
 [![Discord](https://img.shields.io/badge/-salam4n-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/562242890869506051)
