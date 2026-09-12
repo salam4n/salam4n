@@ -5,7 +5,7 @@
 
 ### Hi, I'm salaman 👋
 
-Full-stack software engineer based in Poland, focused on building modern web applications and FiveM resources. Currently Lead Developer at Coco RP, DiamondRP and Full Stack Developer at GCamp.
+Full-stack software engineer based in Poland, focused on building modern web applications and FiveM resources.
 
 ### Tech Stack
 
