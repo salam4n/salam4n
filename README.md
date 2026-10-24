@@ -19,14 +19,6 @@ Full-stack software engineer based in Poland, focused on building modern web app
 ![FiveM](https://img.shields.io/badge/-FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Featured Projects
-
-#### GCamp · [Live Demo](https://gcamp.pl)
-Modern web platform for managing youth camps and summer programs built with Next.js, TypeScript, and Tailwind CSS. Features include user management, activity scheduling, and payment processing.
-
-#### Advanced FiveM Crime Tablet · [Preview](https://www.youtube.com/watch?v=dJ7XQ9BSFKQ)
-Interactive crime management system for FiveM roleplay servers with real-time data synchronization. Built with React, TypeScript, and Lua, featuring organization structure, missions system, and financial management.
-
 ### Connect
 
 [![Discord](https://img.shields.io/badge/-salam4n-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/562242890869506051)
